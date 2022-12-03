@@ -1,0 +1,22 @@
+<RCC>
+    <qresource prefix="/image">
+        <file>background.jpg</file>
+        <file>icon/TextBook.ico</file>
+        <file>icon/FileEplorer.ico</file>
+        <file>icon/MemoryDisplayer.ico</file>
+        <file>icon/ac.ico</file>
+        <file>icon/md.ico</file>
+        <file>icon/test.ico</file>
+        <file>icon/ca.ico</file>
+        <file>icon/dir.ico</file>
+        <file>icon/file.ico</file>
+    </qresource>
+    <qresource prefix="/">
+        <file>tool/undo.ico</file>
+        <file>tool/save.ico</file>
+        <file>tool/redo.ico</file>
+        <file>tool/print.ico</file>
+        <file>tool/open.ico</file>
+        <file>tool/new.ico</file>
+    </qresource>
+</RCC>
